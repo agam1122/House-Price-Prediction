@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+
+# Local IDE/workspace settings
+.vscode/
+.DS_Store
+
+# Model and pipeline artifacts
+*.pkl
+
+# Generated data files
+input_data.csv
+output.csv
+input\ copy.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
